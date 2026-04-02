@@ -1,25 +1,33 @@
-# Bonjour, je suis Noémie Niamien
-## Etudiante en licence 1 a Ecole IT Valenciennes
-### Actuellement en formation *Licence 1* à l'École IT.
-![École IT](https://img.shields.io/badge/École%20IT-B1-1E3A5F?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=p
-ython)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoCo
-lor=white)
+<div align="center">
+
+#  Hello, moi c'est Noémie Niamien ! 
+
+![Bannière](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=120&section=header&text=Future%20Data%20Scientist%20&fontSize=50)
+> "Le code, c'est 10% d'écriture et 90% de compréhension du pourquoi ça ne marche pas." — Une étudiante lucide. 
+</div>
+
+---
+
+##  À propos de moi
+Actuellement en **Licence 1 à École IT**. J'apprends à parler couramment l'ordinateur (et parfois il me répond).
+
+* **Ma mission :** Devenir une Data Scientist.
+* **Hobbies :** Informatique,formule 1.
+* **Localisation :** France,Valenciennes.
+
+## Mes technologies
+| Catégorie | Outils & Langages |
+| :--- | :--- |
+| **Langages** | Python, JavaScript, HTML/CSS |
+| **Outils** | Git, GitHub, VS Code, Markdown |
+| **En cours...** | Docker, APIs (et l'art de la sieste stratégique) |
 
 
+---
 
-<!--
-**nmnoemie/nmnoemie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Me contacter
+* **Email :** `[noemienmn@gmail.com]` 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<sub>Profil créé avec ❤️ et Markdown - École IT 2025-2026</sub>
+</div>
