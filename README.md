@@ -1,4 +1,13 @@
-## Hi there i'm Noémie
+# Bonjour, je suis Noémie Niamien
+## Etudiante en licence 1 a Ecole IT Valenciennes
+### Actuellement en formation *Licence 1* à l'École IT.
+![École IT](https://img.shields.io/badge/École%20IT-B1-1E3A5F?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=p
+ython)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoCo
+lor=white)
+
+
 
 <!--
 **nmnoemie/nmnoemie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
