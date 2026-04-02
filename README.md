@@ -9,11 +9,10 @@
 ---
 
 ##  À propos de moi
-Actuellement en **Licence 1 à École IT**. J'apprends à parler couramment l'ordinateur (et parfois il me répond).
+Actuellement en **Licence 1 à École IT**.
 
 * **Ma mission :** Devenir une Data Scientist.
 * **Hobbies :** Informatique,formule 1.
-* **Localisation :** France,Valenciennes.
 
 ## Mes technologies
 | Catégorie | Outils & Langages |
